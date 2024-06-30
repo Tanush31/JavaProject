@@ -61,6 +61,7 @@ public class MainController {
 					break;
 			}
 			System.out.println("Do you want to continue ?");
+			system.out.println("Helooo");
 			String ans=sc.next();
 			if("no".equalsIgnoreCase(ans)){
 				break;
